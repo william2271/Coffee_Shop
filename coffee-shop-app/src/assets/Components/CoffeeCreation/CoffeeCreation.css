@@ -1,0 +1,29 @@
+.mocha{
+    background-color: rgba(66, 37, 1);
+}
+.mochaa{
+    background-color: rgb(101, 56, 1, 0.9);
+}
+.moch{
+    background-color:rgb(133, 67, 1);
+}
+body{
+    background-color:rgb(171, 132, 93);
+    
+}
+.new_font{
+    color:white;
+    font-family: 'Georgia', serif;
+    color:white;
+}
+.nav-item {
+    color: white !important;
+}
+
+main {
+    background-color:rgb(171, 132, 93);
+}
+div:hover{
+    border-color: red;
+    
+}
